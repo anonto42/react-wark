@@ -1,0 +1,22 @@
+.back{
+    background-color: var(--nabBackground);
+}
+.mainNav{
+    height: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 25px;
+    color: black;
+}
+.TiThMenuOutline{
+  font-size: 25px;
+  cursor: pointer;
+  color: black;
+}
+.AiOutlineCloseIcon{
+  font-size: 25px;
+  color: black;
+  cursor: pointer;
+}
